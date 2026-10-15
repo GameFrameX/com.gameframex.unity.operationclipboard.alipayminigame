@@ -1,0 +1,24 @@
+{
+    "name": "GameFrameX.OperationClipboard.AlipayMiniGame.Runtime",
+    "rootNamespace": "GameFrameX.OperationClipboard.AlipayMiniGame.Runtime",
+    "references": [
+        "GameFrameX.Runtime",
+        "GameFrameX.OperationClipboard.Runtime",
+        "AlipaySDKRuntime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.alipay.alipaysdk",
+            "expression": "",
+            "define": "ENABLE_ALIPAY_MINI_GAME_OPERATIONCLIPBOARD"
+        }
+    ],
+    "noEngineReferences": false
+}
