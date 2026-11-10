@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/gameframex/com.gameframex.unity.operationclipboard.alipayminigame/compare/1.0.0...1.0.1) (2026-11-10)
+
+
+### Bug Fixes
+
+* **operationclipboard.alipayminigame:** 添加完整 link.xml 防代码裁剪保护 ([2f4ec4d](https://github.com/gameframex/com.gameframex.unity.operationclipboard.alipayminigame/commit/2f4ec4d2cdfdd42fbb3b98043d6e8c703c96578e))
+
 # 1.0.0 (2026-10-15)
 
 
